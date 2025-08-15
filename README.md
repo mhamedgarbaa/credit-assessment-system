@@ -130,7 +130,7 @@ cd credit-assessment-system
 
 2. Install required packages:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
 ```
 
 3. Set up Hugging Face access:
