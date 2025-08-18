@@ -42,7 +42,7 @@ The Credit Assessment System is an AI-powered application that provides automate
 ## Technical Components
 
 ### Models
-- **FinMA Model**: Specialized financial model for credit assessment
+- **FinAI Model**: Specialized financial model for credit assessment
 - **Mistral 7B Instruct**: LLM for final judgment and natural language explanations
 - **TokenSHAP**: Explainability framework for understanding model decisions
 
